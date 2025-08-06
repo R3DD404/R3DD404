@@ -1,53 +1,19 @@
-# Hey, I'm Red! 🚩
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=whoami+%7C+Red;CTF+Player+%26+Bug+Hunter;17+y%2Fo+Cybersec+Kid+on+a+Mission" alt="Typing SVG" />
+</h1>
 
-> 17 y/o cybersec enthusiast • CTF player • THM Top 3%  
-> I break things for fun and build them when I feel like it.
-
----
-
-## 🧠 What I Know
-
-- 🛡️ Cybersecurity (CTFs, Vuln research, Bug Bounty)
-- 🧰 Tools: Nmap, Burp Suite, Metasploit, ffuf, etc.
-- 🖥️ Linux / Bash wizardry
-- ⚙️ Web Exploitation, Privilege Escalation, Reverse Shells
-- 🔧 Scripting: Python, Bash, JS
-- 🖼️ Frontend: React, Tailwind (for tools & dashboards)
+<p align="center">
+  <img src="https://img.shields.io/badge/THM-Top%203%25-red?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNSP-Certified-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-Cisco-brightgreen?style=flat-square" />
+</p>
 
 ---
 
-## 🧪 My Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🔐 AutoRecon Tool](https://github.com/yourusername/recon-tool) | Web-based recon for THM/VulnHub | React + Python + Bash |
-| [🎁 Solana NFT Gifting](https://github.com/yourusername/solana-nft-gift) | Couples can send NFTs daily | Solana + HTML/CSS |
-| [😈 TryHackMe Rank Roaster](https://github.com/yourusername/thm-roaster) | Roasts users based on their THM stats | Node + Express |
-| [🧠 DevHaven](https://github.com/yourusername/devhaven) | AI therapist for burned-out devs | Next.js + Nitter scraping |
-
----
-
-## 🏁 Events & Highlights
-
-- 🏆 Participated in 12hr Teen Hackathon (2025)
-- 🕵️‍♂️ Reported bugs in billion-dollar platforms
-- 📈 CNSP Certified • Cisco Ethical Hacker Certified
-- 🧠 Currently learning: Smart Contract Security on Solana
-
----
-
-## 📊 GitHub Stats
-
-![Red's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## ⚡ Fun Fact
-
-I once escalated to root while someone was still running `gobuster`.  
-Respectfully — I don’t wait.
-
----
-
+## 🧠 About Me
+```bash
+> echo "Red | Cybersecurity Enthusiast"
+> age: 17
+> timezone: IST
+> location: /root/
+> focus: Web Exploitation, Priv Esc, Recon Tools
