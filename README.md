@@ -149,6 +149,6 @@ Connection to github.com closed.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=root%40localhost%3A~%23+hack+the+planet;root%40localhost%3A~%23+sleep+is+for+the+weak;root%40localhost%3A~%23+%2Fdev%2Fcoffee+not+found)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=39ff14&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=R3DD404&color=39ff14&style=flat-square&label=visitors)
 
 </div>
