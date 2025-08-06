@@ -1,10 +1,14 @@
 <div align="center">
-
-![](https://pbs.twimg.com/profile_banners/1610982390322855937/1731745839/1500x500)
-
+<img src="https://media.tenor.com/XLnOBoUY-7gAAAAC/hacker-code.gif" width="100%" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=17+y%2Fo+Cybersec+Guy;whoami+%7C+R3DD;CTF+Player+%26+Bug+Hunter;&color=FF0000" alt="Typing SVG" />
+</h1>
+<p>
+  <img src="https://img.shields.io/badge/THM-Top%2050%20Monthly-FF0000?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNSP-SecOps-FF0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-CISCO-FF0000?style=flat-square" />
+</p>
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```bash
 ┌─[✗]─[R3DD@parrot]─[~]
@@ -17,10 +21,10 @@ R3DD
 
 ### `// 17 y/o security researcher`
 - CTF player, sometimes I win
-- TryHackMe top 3% (not bragging, just facts)  
+- TryHackMe top 2%. 
 - Been breaking things since I found Kali Linux
 - Code at 3am, sleep is overrated
-- Learning Solana smart contract exploits
+- Learning smart contract security.
 
 ```bash
 ┌─[✗]─[R3DD@parrot]─[~]
@@ -69,34 +73,25 @@ R3DD
 ### `Recent Builds`
 
 <details>
-<summary><b>AutoRecon Suite</b> - <i>React + Python Flask</i></summary>
+<summary><b>ReconMate Suite</b></summary>
 <br>
-Web-based recon automation for CTFs. Because manually running 20 commands is pain.
+Application for recon automation for CTFs. 
 
-**Features:** Subdomain enum, port scanning, web fuzzing, auto-reporting  
+**Features:** Subdomain enum, port scanning, web fuzzing 
 **Status:** Actually works (surprisingly)  
 **Usage:** Deployed locally, saves me hours on THM boxes
 </details>
 
 <details>
-<summary><b>THM Rank Roaster</b> - <i>Node.js + Express</i></summary>
+<summary><b>THM-Slash</b></summary>
 <br>
 Roasts people based on their TryHackMe stats with surgical precision.
 
 **Features:** API scraping, personalized insults, dark mode only  
 **Status:** Friends hate me now  
-**Fun Fact:** Accidentally made a kid cry (oops)
+**Try it Here:** https://thmslash.vercel.app
 </details>
 
-<details>
-<summary><b>Solana NFT Daily</b> - <i>Solana Web3.js</i></summary>
-<br>
-Couples can send each other NFTs daily. Don't ask why I built this.
-
-**Features:** Daily minting, wallet integration, regret  
-**Status:** Working but questionable life choices  
-**Learning:** Smart contract security is harder than I thought
-</details>
 
 ```bash
 ┌─[✗]─[R3DD@parrot]─[~]
@@ -106,11 +101,11 @@ Couples can send each other NFTs daily. Don't ask why I built this.
 ### `Recent Wins`
 
 ```
-[2024] Found XSS in production app (got paid!)
-[2024] Earned CNSP certification 
-[2024] 12hr hackathon survivor (energy drinks OP)
-[2024] Reported bugs in 3 major platforms
-[2024] Built 4 security tools that people actually use
+[2025] Reported no-rate limiting issue, paid.
+[Feb-2025] Hit Top 50 on THM monthly. 
+[2025] Found exposed API endpoint leaking sensitive information. Disclosed responsibly.
+[2025] Discovered open redirect and SVG-based stored XSS via file upload. Reported both.
+[2024] Found hardcoded API key in request. Reported, got props.
 ```
 
 <div align="center">
@@ -120,9 +115,9 @@ Couples can send each other NFTs daily. Don't ask why I built this.
 └──╼ $sudo ./run_stats.sh
 ```
 
-![R3DD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff3333&icon_color=ff0000)
+![R3DD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3DD404&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff3333&icon_color=ff0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff3333&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3DD404&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff3333&layout=compact)
 
 </div>
 
@@ -134,7 +129,7 @@ Couples can send each other NFTs daily. Don't ask why I built this.
 ### `Live Status`
 **Online:** Probably breaking something or fixing what I broke yesterday  
 **Location:** 127.0.0.1 (nice try FBI)  
-**Current Mission:** Learning Rust for exploit development  
+**Current Mission:** Learning more about different vulnerabilities    
 **Caffeine Level:** Dangerously high  
 
 ---
@@ -144,10 +139,10 @@ Couples can send each other NFTs daily. Don't ask why I built this.
 **`Connection established. Root access granted.`**
 
 ```
-[01:37:42] red@parrot ~ $ echo "Thanks for visiting my digital lair"
+[01:37:42] R3DD@parrot ~ $ echo "Thanks for visiting my digital lair"
 Thanks for visiting my digital lair
 
-[01:37:45] red@parrot ~ $ exit
+[01:37:45] R3DD@parrot ~ $ exit
 logout
 Connection to github.com closed.
 ```
