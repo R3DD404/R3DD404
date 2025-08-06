@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/XLnOBoUY-7gAAAAC/hacker-code.gif" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=whoami+%7C+Red;CTF+Player+%26+Bug+Hunter;17+y%2Fo+Cybersec+Kid+on+a+Mission" alt="Typing SVG" />
 </h1>
@@ -11,6 +15,7 @@
 ---
 
 ## 🧠 About Me
+
 ```bash
 > echo "Red | Cybersecurity Enthusiast"
 > age: 17
